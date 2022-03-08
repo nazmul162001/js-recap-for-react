@@ -1,11 +1,11 @@
 // const myArr = [12, 42, 54, 23, 34];
-// const studentData = {
-//   name: 'Nazmul',
-//   age: 23,
-//   skill: ['javascript', 'react', 'mongo', 'express'],
-//   expert: 'nodeJs',
-//   salary: 25000
-// }
+const studentData = {
+  name: 'Nazmul',
+  age: 23,
+  skill: ['javascript', 'react', 'mongo', 'express'],
+  expert: 'nodeJs',
+  salary: 25000
+}
 
 // // template string ///////////
 // const mySkill = `
