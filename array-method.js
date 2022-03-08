@@ -43,3 +43,11 @@ const specificName = products.filter(x => x.name.includes('n'));
 console.log(specificName);
 
 // কোন একটা অ্যারে এর মধ্যে থেকে যখন আমরা কোন নির্দিষ্ট word matching করে কনডিশন দিতে চাই তখন আমরা .includes ব্যাবহার করি।
+
+
+
+const arr = [20, 52, 78, 65, 45];
+// এখন এইটা কে map use করে প্রত্যেকটা সংখ্যাকে ২ দিয়ে গুন করে গুনফল অন্য একটা array তে দেখাতে হবে।
+
+const newArr = arr.map(x => x * 2);
+console.log(newArr);
