@@ -17,3 +17,5 @@ const addToLocalStorage = () => {
   valueInput.value = '';
 
 } 
+
+// all file added to pdf
